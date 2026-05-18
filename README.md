@@ -65,7 +65,7 @@ The Power BI dashboard includes:
 
 > Add your dashboard screenshot here after exporting it from Power BI:
 >
-> `dashboard_screenshot.png`
+> `![Coffee Shop Sales Dashboard](dashboard_screenshot.png)
 
 ## Key Insights
 - Total revenue reached approximately **$698.8K** from **149,116 transactions**.
